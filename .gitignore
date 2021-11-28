@@ -1,0 +1,14 @@
+node_modules/
+results/
+log/
+cypress/videos/
+cypress/test-to-json/
+reports/
+cypress/integration/1-getting-started
+cypress/integration/2-advanced-examples
+cypress/fixtures
+cypress/screenshots
+cypress/plugins
+cypress/support
+.env*
+!.env.template
